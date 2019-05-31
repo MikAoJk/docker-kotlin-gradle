@@ -1,4 +1,4 @@
-FROM openjdk:11-jre-alpine
+FROM openjdk:11-jdk-slim
 WORKDIR /app
 EXPOSE 8080
 COPY build/libs/*.jar app.jar
