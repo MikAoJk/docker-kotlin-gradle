@@ -22,4 +22,4 @@ Creating a docker image should be as simple as `docker build -t docker-kotlin-gr
 
 ## Contact us
 ### Code/project related questions can be sent to
-* Joakim Kartveit, `joakimkartveit@gmail.no`
+* Joakim Kartveit, `joakimkartveit@gmail.com`
